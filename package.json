@@ -1,6 +1,6 @@
 {
   "name": "configload",
-  "version": "0.0.1",
+  "version": "0.0.3",
   "description": "A nodejs module that allows you to include JSON config files with ease",
   "main": "index.js",
   "repository": {
