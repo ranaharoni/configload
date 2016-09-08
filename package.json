@@ -1,0 +1,22 @@
+{
+  "name": "configload",
+  "version": "0.0.0.1",
+  "description": "A nodejs module that allows you to include JSON config files with ease",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ranaharoni/configload.git"
+  },
+  "keywords": [
+    "json",
+    "config",
+    "loader",
+    "file"
+  ],
+  "author": "Ran Aharoni",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ranaharoni/configload/issues"
+  },
+  "homepage": "https://github.com/ranaharoni/configload#readme"
+}
